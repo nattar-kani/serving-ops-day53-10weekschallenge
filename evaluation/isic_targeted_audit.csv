@@ -1,0 +1,17 @@
+index,source,issue,code,label,expected_label
+12,reference,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+12,fine_tuned,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+28,fine_tuned,Code-label mismatch,C2819,"Manufacture of machinery for food, beverage and tobacco processing",Manufacture of other general-purpose machinery n.e.c.
+29,fine_tuned,Code-label mismatch,C2819,"Manufacture of machinery for food, beverage and tobacco processing",Manufacture of other general-purpose machinery n.e.c.
+47,fine_tuned,Missing isic_label,C2810,,Manufacture of general-purpose machinery
+49,reference,Code-label mismatch,G4759,"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles","Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores"
+49,fine_tuned,Missing isic_label,C2650,,
+52,reference,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+52,fine_tuned,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+62,fine_tuned,Code-label mismatch,C2810,"Manufacture of other articles of concrete, cement and plaster",Manufacture of general-purpose machinery
+71,reference,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+71,fine_tuned,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+77,reference,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+77,fine_tuned,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+95,reference,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.
+95,fine_tuned,Code-label mismatch,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery n.e.c.

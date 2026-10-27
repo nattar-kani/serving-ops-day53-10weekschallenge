@@ -1,0 +1,101 @@
+index,reference_code,prediction_code,code_agreement,reference_label,prediction_label,reference_code_found,prediction_code_found
+0,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+1,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+2,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+3,C2395,C2395,True,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True
+4,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+5,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+6,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+7,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+8,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+9,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+10,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+11,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+12,C2819,C2819,True,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True
+13,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+14,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+15,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+16,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+17,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+18,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+19,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+20,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+21,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+22,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+23,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+24,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+25,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+26,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+27,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+28,C2825,C2819,False,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+29,C2825,C2819,False,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+30,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+31,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+32,C2395,C2395,True,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True
+33,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+34,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+35,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+36,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+37,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+38,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+39,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+40,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+41,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+42,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+43,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+44,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+45,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+46,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+47,C2811,C2810,False,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",,True,False
+48,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+49,G4759,C2650,False,"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles",,True,False
+50,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+51,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+52,C2819,C2819,True,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True
+53,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+54,C2395,C2395,True,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True
+55,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+56,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+57,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+58,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+59,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+60,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+61,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+62,C2790,C2810,False,Manufacture of other electrical equipment,"Manufacture of other articles of concrete, cement and plaster",True,False
+63,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+64,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+65,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+66,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+67,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+68,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+69,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+70,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+71,C2819,C2819,True,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True
+72,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+73,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+74,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+75,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+76,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+77,C2819,C2819,True,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True
+78,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+79,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+80,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+81,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+82,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+83,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+84,C2720,C2720,True,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True
+85,C2395,C2395,True,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True
+86,C2651,C2651,True,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True
+87,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+88,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+89,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+90,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+91,J6201,J6201,True,Computer programming activities,Computer programming activities,False,False
+92,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+93,C2395,C2395,True,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True
+94,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True
+95,C2819,C2819,True,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True
+96,M7120,M7120,True,Technical testing and analysis,Technical testing and analysis,False,False
+97,C2825,C2825,True,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True
+98,M7110,M7110,True,Architectural and engineering activities,Architectural and engineering activities,False,False
+99,E3600,E3600,True,"Water collection, treatment and supply","Water collection, treatment and supply",True,True

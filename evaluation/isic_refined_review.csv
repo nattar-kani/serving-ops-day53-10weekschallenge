@@ -1,0 +1,174 @@
+index,source,status,code,label
+0,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+0,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+1,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+1,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+2,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+2,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+3,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+3,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+4,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+4,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+5,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+5,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+6,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+6,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+7,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+7,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+8,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+8,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+9,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+9,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+10,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+10,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+11,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+11,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+13,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+13,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+14,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+14,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+15,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+15,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+16,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+16,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+17,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+17,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+18,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+18,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+19,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+19,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+21,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+21,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+22,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+22,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+24,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+24,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+25,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+25,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+26,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+26,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+27,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+27,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+28,fine_tuned,REVIEW_CODE_LABEL_MISMATCH,C2819,"Manufacture of machinery for food, beverage and tobacco processing"
+29,fine_tuned,REVIEW_CODE_LABEL_MISMATCH,C2819,"Manufacture of machinery for food, beverage and tobacco processing"
+30,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+30,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+31,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+31,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+32,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+32,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+33,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+33,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+34,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+34,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+36,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+36,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+37,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+37,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+38,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+38,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+39,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+39,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+40,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+40,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+41,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+41,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+42,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+42,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+43,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+43,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+44,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+44,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+45,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+45,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+46,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+46,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+47,fine_tuned,MISSING_LABEL,C2810,
+48,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+48,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+49,fine_tuned,MISSING_LABEL,C2650,
+50,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+50,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+51,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+51,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+53,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+53,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+54,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+54,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+55,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+55,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+56,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+56,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+57,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+57,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+58,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+58,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+59,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+59,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+60,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+60,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+61,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+61,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+62,fine_tuned,REVIEW_CODE_LABEL_MISMATCH,C2810,"Manufacture of other articles of concrete, cement and plaster"
+63,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+63,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+64,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+64,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+65,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+65,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+66,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+66,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+67,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+67,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+68,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+68,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+69,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+69,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+70,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+70,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+72,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+72,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+73,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+73,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+75,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+75,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+76,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+76,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+78,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+78,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+79,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+79,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+80,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+80,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+81,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+81,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+82,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+82,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+83,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+83,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+84,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+84,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2720,Manufacture of batteries and accumulators
+85,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+85,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+86,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+86,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2651,"Manufacture of measuring, testing, navigating and control equipment"
+87,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+87,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+88,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+88,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+90,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+90,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+91,reference,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+91,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,J6201,Computer programming activities
+92,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+92,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+93,reference,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+93,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,C2395,"Manufacture of articles of concrete, cement and plaster"
+94,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+94,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+96,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+96,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7120,Technical testing and analysis
+98,reference,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+98,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,M7110,Architectural and engineering activities
+99,reference,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"
+99,fine_tuned,CODE_NOT_IN_TARGETED_LOOKUP,E3600,"Water collection, treatment and supply"

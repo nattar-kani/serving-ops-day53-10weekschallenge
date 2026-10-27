@@ -1,0 +1,10 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct (base, 4-bit)",
+  "test_examples": 100,
+  "valid_json_count": 92,
+  "valid_json_rate_percent": 92.0,
+  "matching_top_level_schema_count": 0,
+  "matching_top_level_schema_rate_percent": 0.0,
+  "exact_match_count": 0,
+  "exact_match_rate_percent": 0.0
+}

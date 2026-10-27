@@ -1,0 +1,117 @@
+{
+  "experiment": "ClimateTech Sustainability Assessment",
+  "evaluation_type": "deterministic",
+  "test_examples": 100,
+  "base_model": {
+    "valid_json": {
+      "count": 92,
+      "total": 100,
+      "rate_percent": 92.0
+    },
+    "schema_compliant": {
+      "count": 0,
+      "total": 100,
+      "rate_percent": 0.0
+    },
+    "exact_match": {
+      "count": 0,
+      "total": 100,
+      "rate_percent": 0.0
+    },
+    "industry_agreement": {
+      "count": 0,
+      "total": 100,
+      "rate_percent": 0.0
+    },
+    "sdg_agreement": {
+      "count": 0,
+      "total": 100,
+      "rate_percent": 0.0
+    },
+    "evidence_agreement": {
+      "count": 0,
+      "total": 100,
+      "rate_percent": 0.0
+    }
+  },
+  "fine_tuned_model": {
+    "valid_json": {
+      "count": 100,
+      "total": 100,
+      "rate_percent": 100.0
+    },
+    "schema_compliant": {
+      "count": 100,
+      "total": 100,
+      "rate_percent": 100.0
+    },
+    "exact_match": {
+      "count": 95,
+      "total": 100,
+      "rate_percent": 95.0
+    },
+    "industry_agreement": {
+      "count": 95,
+      "total": 100,
+      "rate_percent": 95.0
+    },
+    "sdg_agreement": {
+      "count": 97,
+      "total": 100,
+      "rate_percent": 97.0
+    },
+    "evidence_agreement": {
+      "count": 97,
+      "total": 100,
+      "rate_percent": 97.0
+    }
+  },
+  "percentage_point_change": {
+    "valid_json": 8.0,
+    "schema_compliant": 100.0,
+    "exact_match": 95.0,
+    "industry_agreement": 95.0,
+    "sdg_agreement": 97.0,
+    "evidence_agreement": 97.0
+  },
+  "fine_tuned_exact_match_mismatches": [
+    {
+      "index": 28,
+      "reference": "{\"industry\": {\"isic_code\": \"C2825\", \"isic_label\": \"Manufacture of machinery for food, beverage and tobacco processing\", \"classification_status\": \"broad_classification\", \"reason\": \"The described business activity suggests this broad industry classification. The profile is fictional and the classification is for training purposes.\"}, \"sdg_assessment\": [{\"sdg_number\": 12, \"relationship\": \"reported_contribution\", \"rationale\": \"The company's described activity relates to SDG 12, Responsible Consumption and Production. This is a synthetic classification scenario, not evidence of an actual environmental outcome.\", \"supporting_evidence\": \"Synthetic scenario: a company-reported environmental benefit; no independent verification is supplied.\"}, {\"sdg_number\": 13, \"relationship\": \"not_established\", \"rationale\": \"The supplied fictional profile does not establish a specific contribution to this additional SDG.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"company_claim\", \"impact_claim\": \"The fictional company claims its organic waste processing equipment may improve environmental performance.\", \"supporting_evidence\": \"Synthetic scenario: a company-reported environmental benefit; no independent verification is supplied.\", \"limitations\": [\"The claim is fictional and has not been independently verified.\", \"No measured outcome or comparison baseline is supplied.\"]}}",
+      "prediction": "{\"industry\": {\"isic_code\": \"C2819\", \"isic_label\": \"Manufacture of machinery for food, beverage and tobacco processing\", \"classification_status\": \"broad_classification\", \"reason\": \"The described business activity suggests this broad industry classification. The profile is fictional and the classification is for training purposes.\"}, \"sdg_assessment\": [{\"sdg_number\": 12, \"relationship\": \"reported_contribution\", \"rationale\": \"The company's described activity relates to SDG 12, Responsible Consumption and Production. This is a synthetic classification scenario, not evidence of an actual environmental outcome.\", \"supporting_evidence\": \"Synthetic scenario: a company-reported environmental benefit; no independent verification is supplied.\"}, {\"sdg_number\": 13, \"relationship\": \"not_established\", \"rationale\": \"The supplied fictional profile does not establish a specific contribution to this additional SDG.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"company_claim\", \"impact_claim\": \"The fictional company claims its organic waste processing equipment may improve environmental performance.\", \"supporting_evidence\": \"Synthetic scenario: a company-reported environmental benefit; no independent verification is supplied.\", \"limitations\": [\"The claim is fictional and has not been independently verified.\", \"No measured outcome or comparison baseline is supplied.\"]}}"
+    },
+    {
+      "index": 29,
+      "reference": "{\"industry\": {\"isic_code\": \"C2825\", \"isic_label\": \"Manufacture of machinery for food, beverage and tobacco processing\", \"classification_status\": \"broad_classification\", \"reason\": \"The described business activity suggests this broad industry classification. The profile is fictional and the classification is for training purposes.\"}, \"sdg_assessment\": [{\"sdg_number\": 12, \"relationship\": \"reported_contribution\", \"rationale\": \"The company's described activity relates to SDG 12, Responsible Consumption and Production. This is a synthetic classification scenario, not evidence of an actual environmental outcome.\", \"supporting_evidence\": \"Synthetic scenario: a simulated independent assessment is described in the input; no real report exists.\"}, {\"sdg_number\": 13, \"relationship\": \"not_established\", \"rationale\": \"The supplied fictional profile does not establish a specific contribution to this additional SDG.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E2\", \"source_type\": \"independently_verified_assessment\", \"impact_claim\": \"A simulated independent assessment in this fictional scenario reports an environmental benefit associated with organic waste processing equipment.\", \"supporting_evidence\": \"Synthetic scenario: a simulated independent assessment is described in the input; no real report exists.\", \"limitations\": [\"The assessment and its findings are fictional.\", \"This example must not be interpreted as evidence about a real company.\"]}}",
+      "prediction": "{\"industry\": {\"isic_code\": \"C2819\", \"isic_label\": \"Manufacture of machinery for food, beverage and tobacco processing\", \"classification_status\": \"broad_classification\", \"reason\": \"The described business activity suggests this broad industry classification. The profile is fictional and the classification is for training purposes.\"}, \"sdg_assessment\": [{\"sdg_number\": 12, \"relationship\": \"reported_contribution\", \"rationale\": \"The company's described activity relates to SDG 12, Responsible Consumption and Production. This is a synthetic classification scenario, not evidence of an actual environmental outcome.\", \"supporting_evidence\": \"Synthetic scenario: a simulated independent assessment is described in the input; no real report exists.\"}, {\"sdg_number\": 13, \"relationship\": \"not_established\", \"rationale\": \"The supplied fictional profile does not establish a specific contribution to this additional SDG.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E2\", \"source_type\": \"independently_verified_assessment\", \"impact_claim\": \"A simulated independent assessment in this fictional scenario reports an environmental benefit associated with organic waste processing equipment.\", \"supporting_evidence\": \"Synthetic scenario: a simulated independent assessment is described in the input; no real report exists.\", \"limitations\": [\"The assessment and its findings are fictional.\", \"This example must not be interpreted as evidence about a real company.\"]}}"
+    },
+    {
+      "index": 47,
+      "reference": "{\"industry\": {\"isic_code\": \"C2811\", \"isic_label\": \"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines\", \"classification_status\": \"broad_classification\", \"reason\": \"C2811 is a candidate classification for wind turbine manufacturing under ISIC Rev. 4. Vestas also provides installation and service activities, so this code may not represent every part of its business. Confirm the applicable ISIC revision and classification rules before final approval.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Wind turbines enable electricity generation from a renewable resource and can support access to affordable and clean energy. The scale of the contribution depends on actual deployment and electricity generation.\", \"supporting_evidence\": \"Company profile and product information: https://www.vestas.com/en and https://www.vestas.com/en/products\"}, {\"sdg_number\": 13, \"relationship\": \"potential_contribution\", \"rationale\": \"Wind-generated electricity can reduce power-sector greenhouse gas emissions when it displaces more carbon-intensive generation. The net climate benefit depends on lifecycle emissions and the electricity displaced.\", \"supporting_evidence\": \"The company's wind energy business provides a plausible climate-mitigation pathway. Company-specific avoided emissions have not been verified in this record.\"}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"unknown\", \"impact_claim\": \"No specific quantified climate-impact claim has been verified for this record.\", \"supporting_evidence\": \"The listed company website and product pages are intended to document Vestas's wind energy business and products; their contents have not been independently checked in this workflow.\", \"limitations\": [\"The official source pages must be checked before the record is approved.\", \"The ISIC code is provisional and may not represent all company activities.\", \"No quantified avoided emissions or independently verified climate-impact outcome is documented.\", \"Potential SDG alignment does not establish measured impact.\"]}}",
+      "prediction": "{\"industry\": {\"isic_code\": \"C2810\", \"classification_status\": \"broad_classification\", \"reason\": \"Wind turbine technology is a broad business activity that may be associated with renewable energy production. The specific contribution of wind turbines to climate action depends on their operational conditions and lifecycle emissions compared to other technologies.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Wind power can contribute to climate mitigation by replacing fossil fuels in electricity generation. This relationship does not establish an independent quantified climate-impact result.\", \"supporting_evidence\": null}, {\"sdg_number\": 9, \"relationship\": \"potential_contribution\", \"rationale\": \"Supporting renewable electricity generation supports access to affordable, reliable, sustainable, and modern energy. However, no quantified climate-impact outcome has been independently verified in this record.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"unknown\", \"impact_claim\": \"No substantiated climate-impact claim has been verified using independently verified data.\", \"supporting_evidence\": null, \"limitations\": [\"The official source for this company profile is unknown.\", \"Potential contributions cannot be established without measured net lifecycle greenhouse gas emissions.\", \"Climate-impact benefits depend on the mix of electricity sources and the duration of deployment.\"]}}"
+    },
+    {
+      "index": 49,
+      "reference": "{\"industry\": {\"isic_code\": \"G4759\", \"isic_label\": \"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles\", \"classification_status\": \"classified\", \"reason\": \"G4759 is assigned as the working classification based on the supplied household solar product information and the user's decision to classify the business under retail sales rather than manufacturing. The classification has not been independently checked against the official ISIC Rev. 5 explanatory notes.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Solar panels, solar lanterns, and solar-powered fans provide a plausible pathway to improved access to affordable and clean energy.\", \"supporting_evidence\": \"The supplied product notes identify solar panels, solar lanterns, and solar-powered fans.\"}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"company_claim\", \"impact_claim\": \"The company reports 43 million tons of CO2 offset.\", \"supporting_evidence\": \"The supplied company impact-page description reports the total and says the company describes the methodologies used to calculate offsets.\", \"limitations\": [\"The reporting period is not established in the supplied excerpt.\", \"Independent verification of the specific reported total is not established.\", \"The calculation details and scope of the total require further review.\", \"The supplied product list is based on research notes and has not been independently verified in this workflow.\"]}}",
+      "prediction": "{\"industry\": {\"isic_code\": \"C2650\", \"classification_status\": \"broad_classification\", \"reason\": \"D.light designs and supplies solar lighting and power solutions. C2650 indicates a general association with electricity generation equipment; no official product classification has been confirmed in this record.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Solar energy can support access to electricity and improve lighting conditions. Solar technology may help reduce reliance on fossil fuels and lower greenhouse gas emissions.\", \"supporting_evidence\": \"The company's official website reports its use of the GOGLA methodology for some products, but does not confirm the specific CO2 offset claimed here.\", \"limitations\": [\"No established reporting period.\", \"The official source does not establish the exact CO2 amount associated with the claimed contribution.\"]}, {\"sdg_number\": 13, \"relationship\": \"potential_contribution\", \"rationale\": \"Electricity generated by solar technologies can contribute to reducing greenhouse gases when compared to traditional grid-supplied electricity. This assessment should be interpreted cautiously.\", \"supporting_evidence\": \"See above.\", \"limitations\": []}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"unknown\", \"impact_claim\": \"A company-reported estimate of 43 million tons of CO2 being offset using the GOGLA methodology for solar products.\", \"supporting_evidence\": \"The company's official website reports its use of the GOGLA methodology for some products, but does not confirm the specific CO2 offset claimed here.\", \"limitations\": [\"No established reporting period.\", \"The official source does not establish the exact CO2 amount associated with the claimed contribution.\"]}}"
+    },
+    {
+      "index": 62,
+      "reference": "{\"industry\": {\"isic_code\": \"C2790\", \"isic_label\": \"Manufacture of other electrical equipment\", \"classification_status\": \"broad_classification\", \"reason\": \"Rondo Energy develops industrial thermal energy storage equipment. C2790 is a candidate for specialized energy-related equipment, but the final classification should reflect the company's principal activity and be checked against ISIC Rev. 4 guidance. Project development or energy services may require a different code.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Thermal storage can shift electricity use over time and enable industrial heat to be supplied from electricity, including renewable power when available. The contribution to clean energy depends on the electricity source, system efficiency, and deployment conditions.\", \"supporting_evidence\": null}, {\"sdg_number\": 9, \"relationship\": \"potential_contribution\", \"rationale\": \"Industrial thermal storage offers an alternative approach to supplying process heat and may support industrial technology innovation. Commercial performance and deployment outcomes have not been independently verified in this record.\", \"supporting_evidence\": null}, {\"sdg_number\": 13, \"relationship\": \"potential_contribution\", \"rationale\": \"Electrified thermal storage may reduce industrial emissions when it displaces fossil-fuel heat with lower-carbon electricity. Net reductions depend on the displaced heat source, electricity mix, storage losses, and lifecycle impacts. No quantified net emissions reduction is verified here.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"unknown\", \"impact_claim\": \"Preliminary assessment based on general knowledge of Rondo Energy's thermal storage technology. The official website is provided as a starting point and has not been checked for this record.\", \"supporting_evidence\": null, \"limitations\": [\"The official source has not been checked for this annotation.\", \"The primary ISIC classification is provisional.\", \"The climate benefit depends on the energy source and the industrial heat process being displaced.\", \"No company-specific quantified SDG outcomes have been verified.\"]}}",
+      "prediction": "{\"industry\": {\"isic_code\": \"C2810\", \"isic_label\": \"Manufacture of other articles of concrete, cement and plaster\", \"classification_status\": \"broad_classification\", \"reason\": \"The described product suggests this broad manufacturing category. The actual application may differ significantly.\"}, \"sdg_assessment\": [{\"sdg_number\": 7, \"relationship\": \"potential_contribution\", \"rationale\": \"Thermal energy storage can support renewable electricity integration and grid flexibility. This is a general benefit and does not establish an independent SDG outcome.\", \"supporting_evidence\": null}, {\"sdg_number\": 9, \"relationship\": \"potential_contribution\", \"rationale\": \"Energy storage can improve system resilience and reliability. This is a general benefit and does not establish an independent SDG outcome.\", \"supporting_evidence\": null}], \"evidence_assessment\": {\"level\": \"E1\", \"source_type\": \"unknown\", \"impact_claim\": \"Preliminary assessment based on general knowledge about thermal energy storage and its potential benefits.\", \"supporting_evidence\": null, \"limitations\": [\"The official source has not been checked for this record.\", \"No measured result or comparison baseline is supplied.\"]}}"
+    }
+  ],
+  "methodology": {
+    "json_validity": "Prediction parses as a JSON object after optional Markdown fences are removed.",
+    "schema_compliance": "Top-level keys exactly match the required schema.",
+    "exact_match": "Parsed prediction equals parsed reference.",
+    "field_agreement": "Exact equality of the corresponding top-level field.",
+    "llm_as_judge": "Not used."
+  },
+  "limitations": [
+    "Reference agreement does not independently establish factual correctness.",
+    "The base model uses a different output schema, so its field-agreement rates are not a fair semantic comparison.",
+    "Results are measured on the saved 100-example test set."
+  ],
+  "created_at_utc": "2026-10-26T13:55:23.660105+00:00"
+}

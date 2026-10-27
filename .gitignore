@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.colab/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+adapter_model/
+checkpoints/
+outputs/
+.cache/
+huggingface_cache/

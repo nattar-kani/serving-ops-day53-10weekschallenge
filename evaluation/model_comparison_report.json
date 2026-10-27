@@ -1,0 +1,31 @@
+{
+  "experiment": "ClimateTech Sustainability Assessment — QLoRA",
+  "base_model": {
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "test_examples": 100,
+    "valid_json": "92/100 (92%)",
+    "top_level_schema_match": "0/100 (0%)",
+    "exact_match": "0/100 (0%)"
+  },
+  "fine_tuned_model": {
+    "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "method": "QLoRA 4-bit",
+    "test_examples": 100,
+    "valid_json": "100/100 (100%)",
+    "exact_match": "97/100 (97%)",
+    "source_type_agreement": "99/100 (99%)",
+    "top_level_schema_match": "Not measured"
+  },
+  "interpretation": [
+    "The fine-tuned model produced valid JSON for all 100 test examples.",
+    "The base model often used a different schema from the expected assessment format.",
+    "The fine-tuned model achieved substantially higher exact-match agreement with the reference outputs.",
+    "Agreement with reference outputs does not independently establish factual correctness."
+  ],
+  "limitations": [
+    "The test set contains 100 examples.",
+    "Exact match is strict and does not measure partial correctness.",
+    "The reference outputs have not all been independently verified.",
+    "Generation time was not benchmarked under controlled, identical conditions."
+  ]
+}

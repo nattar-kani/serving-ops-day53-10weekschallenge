@@ -1,0 +1,201 @@
+index,source,json_parsed,code,label,official_rev5_title,code_found_in_rev5,title_matches_rev5,audit_status
+0,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+0,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+1,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+1,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+2,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+2,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+3,reference,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+3,fine_tuned_prediction,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+4,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+4,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+5,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+5,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+6,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+6,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+7,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+7,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+8,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+8,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+9,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+9,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+10,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+10,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+11,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+11,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+12,reference,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+12,fine_tuned_prediction,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+13,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+13,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+14,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+14,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+15,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+15,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+16,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+16,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+17,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+17,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+18,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+18,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+19,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+19,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+20,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+20,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+21,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+21,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+22,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+22,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+23,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+23,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+24,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+24,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+25,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+25,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+26,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+26,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+27,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+27,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+28,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+28,fine_tuned_prediction,True,C2819,"Manufacture of machinery for food, beverage and tobacco processing",Manufacture of other general-purpose machinery,True,False,TITLE_REVIEW_REQUIRED
+29,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+29,fine_tuned_prediction,True,C2819,"Manufacture of machinery for food, beverage and tobacco processing",Manufacture of other general-purpose machinery,True,False,TITLE_REVIEW_REQUIRED
+30,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+30,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+31,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+31,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+32,reference,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+32,fine_tuned_prediction,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+33,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+33,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+34,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+34,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+35,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+35,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+36,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+36,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+37,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+37,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+38,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+38,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+39,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+39,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+40,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+40,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+41,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+41,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+42,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+42,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+43,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+43,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+44,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+44,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+45,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+45,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+46,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+46,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+47,reference,True,C2811,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines","Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",True,True,TITLE_MATCH
+47,fine_tuned_prediction,True,C2810,,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+48,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+48,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+49,reference,True,G4759,"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles","Retail sale of electrical household appliances, furniture, lighting equipment and other household articles",True,True,TITLE_MATCH
+49,fine_tuned_prediction,True,C2650,,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+50,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+50,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+51,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+51,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+52,reference,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+52,fine_tuned_prediction,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+53,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+53,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+54,reference,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+54,fine_tuned_prediction,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+55,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+55,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+56,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+56,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+57,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+57,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+58,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+58,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+59,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+59,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+60,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+60,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+61,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+61,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+62,reference,True,C2790,Manufacture of other electrical equipment,Manufacture of other electrical equipment,True,True,TITLE_MATCH
+62,fine_tuned_prediction,True,C2810,"Manufacture of other articles of concrete, cement and plaster",,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+63,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+63,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+64,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+64,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+65,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+65,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+66,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+66,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+67,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+67,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+68,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+68,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+69,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+69,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+70,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+70,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+71,reference,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+71,fine_tuned_prediction,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+72,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+72,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+73,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+73,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+74,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+74,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+75,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+75,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+76,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+76,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+77,reference,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+77,fine_tuned_prediction,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+78,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+78,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+79,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+79,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+80,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+80,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+81,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+81,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+82,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+82,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+83,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+83,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+84,reference,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+84,fine_tuned_prediction,True,C2720,Manufacture of batteries and accumulators,Manufacture of batteries and accumulators,True,True,TITLE_MATCH
+85,reference,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+85,fine_tuned_prediction,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+86,reference,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+86,fine_tuned_prediction,True,C2651,"Manufacture of measuring, testing, navigating and control equipment","Manufacture of measuring, testing, navigating and control equipment",True,True,TITLE_MATCH
+87,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+87,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+88,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+88,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+89,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+89,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+90,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+90,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+91,reference,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+91,fine_tuned_prediction,True,J6201,Computer programming activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+92,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+92,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+93,reference,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+93,fine_tuned_prediction,True,C2395,"Manufacture of articles of concrete, cement and plaster","Manufacture of articles of concrete, cement and plaster",True,True,TITLE_MATCH
+94,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+94,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+95,reference,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+95,fine_tuned_prediction,True,C2819,Manufacture of other general-purpose machinery,Manufacture of other general-purpose machinery,True,True,TITLE_MATCH
+96,reference,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+96,fine_tuned_prediction,True,M7120,Technical testing and analysis,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+97,reference,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+97,fine_tuned_prediction,True,C2825,"Manufacture of machinery for food, beverage and tobacco processing","Manufacture of machinery for food, beverage and tobacco processing",True,True,TITLE_MATCH
+98,reference,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+98,fine_tuned_prediction,True,M7110,Architectural and engineering activities,,False,False,NOT_FOUND_IN_REV5_REVISION_REVIEW
+99,reference,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH
+99,fine_tuned_prediction,True,E3600,"Water collection, treatment and supply","Water collection, treatment and supply",True,True,TITLE_MATCH

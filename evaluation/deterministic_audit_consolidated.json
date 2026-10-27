@@ -1,0 +1,78 @@
+{
+  "report_type": "deterministic_climatetech_model_evaluation",
+  "evaluation_size": 100,
+  "inputs": {
+    "base_predictions": "base_predictions.jsonl",
+    "fine_tuned_predictions": "fine_tuned_predictions.jsonl",
+    "isic_reference_workbook": "ISIC5_Exp_Notes_19_Aug_2026.xlsx",
+    "isic_sheet": "ISIC5"
+  },
+  "metrics": {
+    "base_json_parseable": {
+      "count": 92,
+      "total": 100,
+      "rate": 0.92
+    },
+    "fine_tuned_json_parseable": {
+      "count": 100,
+      "total": 100,
+      "rate": 1.0
+    },
+    "reference_json_parseable": {
+      "count": 100,
+      "total": 100,
+      "rate": 1.0
+    },
+    "fine_tuned_exact_schema_compliance": {
+      "count": 98,
+      "total": 100,
+      "rate": 0.98
+    },
+    "fine_tuned_exact_object_reference_agreement": {
+      "count": 95,
+      "total": 100,
+      "rate": 0.95
+    },
+    "fine_tuned_isic_code_reference_agreement": {
+      "count": 95,
+      "total": 100,
+      "rate": 0.95
+    },
+    "fine_tuned_exact_sdg_set_reference_agreement": {
+      "count": 97,
+      "total": 100,
+      "rate": 0.97
+    },
+    "sdg_micro_jaccard": 0.9801980198019802
+  },
+  "isic_rev5_prediction_audit_counts": {
+    "CODE_AND_TITLE_MATCH": 51,
+    "CODE_NOT_FOUND_IN_REV5": 47,
+    "TITLE_MISMATCH": 2
+  },
+  "evidence_audit": {
+    "source_type_counts": {
+      "unknown": 37,
+      "independently_verified_assessment": 35,
+      "company_claim": 28
+    },
+    "evidence_level_counts": {
+      "E2": 35,
+      "E0": 34,
+      "E1": 31
+    },
+    "missing_or_unknown_source_type_count": 37,
+    "missing_supporting_evidence_count": 36,
+    "quantified_claim_flag_count": 1,
+    "quantified_claim_without_limitations_count": 0
+  },
+  "interpretation_and_limitations": [
+    "No LLM-as-judge was used.",
+    "The base model uses a legacy, inconsistent schema; its task fields are not directly comparable to the fine-tuned target schema.",
+    "Exact reference agreement measures agreement with supplied references, not real-world correctness.",
+    "ISIC codes absent from the Rev. 5 workbook may reflect revision differences and are not automatically invalid.",
+    "Code/title matches establish literal consistency with the workbook, not correct classification of the company's primary activity.",
+    "Evidence flags are deterministic heuristics and require human review.",
+    "No predictions or references were automatically corrected."
+  ]
+}

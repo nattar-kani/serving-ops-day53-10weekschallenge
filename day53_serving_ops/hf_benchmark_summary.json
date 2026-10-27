@@ -1,0 +1,22 @@
+{
+  "benchmark": "Hugging Face sequential inference",
+  "timestamp_utc": "2026-10-26T17:00:22.947171+00:00",
+  "model_base": "Qwen/Qwen2.5-1.5B-Instruct",
+  "adapter_path": "/content/drive/MyDrive/climatetech-qlora/final_adapter",
+  "gpu": "Tesla T4",
+  "torch_version": "2.11.0+cu130",
+  "transformers_version": "5.20.2",
+  "peft_version": "0.21.2",
+  "warmup_requests_excluded": 2,
+  "measured_requests": 12,
+  "max_new_tokens": 96,
+  "latency_p50_seconds": 6.7907,
+  "latency_p95_seconds": 8.0961,
+  "mean_latency_seconds": 6.684,
+  "aggregate_generation_tokens_per_second": 12.9414,
+  "aggregate_requests_per_second": 0.1496,
+  "total_output_tokens": 1038,
+  "peak_gpu_allocated_gb": 3.144,
+  "concurrency": 1,
+  "notes": "Sequential, non-streaming benchmark. Latency includes tokenization and generation, excludes model loading, and is not a concurrent load test. TTFT is not measured separately."
+}

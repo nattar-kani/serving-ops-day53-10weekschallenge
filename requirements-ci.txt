@@ -1,0 +1,7 @@
+pytest
+jsonschema
+fastapi
+httpx
+prometheus-client
+structlog
+ruff

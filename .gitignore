@@ -13,3 +13,10 @@ checkpoints/
 outputs/
 .cache/
 huggingface_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example

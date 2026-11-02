@@ -27,3 +27,5 @@ The Hugging Face benchmark records the baseline model-serving measurements. The 
 - Pattern-based checks can miss attacks or incorrectly flag harmless text.
 - CPU mock-generator measurements are not comparable to real model-serving latency.
 - vLLM throughput and p95 latency have not yet been benchmarked.
+
+p95 latency have not yet been benchmarked.
